@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px;
+    border: solid 1px;
+}
+
+.cabecalhoMenu {
+    display: flex;
+    gap: 42px;
+}
+
+.produtos {
+    background-color: whitesmoke;
+    display: flex;
+    gap: 80px;
+    margin: 0 50px;
+    border-radius: 5px;
+}
+
+.tenis1 {
+    margin-left: 32px;
+}
+
+.tenis2 {
+    margin-left: 32px;
+}
+
+.tenis3 {
+    margin-left: 32px;
+}
+
+.tenis4 {
+    margin-left: 32px;
+}
+
+.imagens {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    margin: 5px;
+
+}
+
+.imagens:hover {
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.3);
+}
+
+p {
+    color: #adadad;
+    font-size: 0.750em;
+}
+
+
+
+
+
+
+
+
+.valorAnterior {
+    text-decoration: line-through;
+}
+
+
+
+
+
+
+.buttom {
+    width: 36px;
+    height: 36px;
+    border-radius: 100%;
+    background-color: #fff!important;
+    color: #151415;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    box-shadow: 0 2px 5px 1px rgb(0 0 0 / 20%);
+}
