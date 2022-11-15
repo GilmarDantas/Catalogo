@@ -38,19 +38,7 @@
     border-radius: 5px;
 }
 
-.tenis1 {
-    margin-left: 32px;
-}
-
-.tenis2 {
-    margin-left: 32px;
-}
-
-.tenis3 {
-    margin-left: 32px;
-}
-
-.tenis4 {
+.tenis1, .tenis2, .tenis3, .tenis4 {
     margin-left: 32px;
 }
 
