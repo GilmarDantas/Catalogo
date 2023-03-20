@@ -36,9 +36,10 @@
     gap: 80px;
     margin: 0 50px;
     border-radius: 5px;
+    justify-content: center;
 }
 
-.tenis1, .tenis2, .tenis3, .tenis4 {
+.tenis {
     margin-left: 32px;
 }
 
